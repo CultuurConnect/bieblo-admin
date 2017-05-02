@@ -1,0 +1,7 @@
+export Age from './Age'
+export App from './App/App'
+export Hallo from './Hallo'
+export Home from './Home/Home'
+export NotFound from './NotFound/NotFound'
+export Results from './Results'
+export Swipe from './Swipe'

@@ -1,0 +1,57 @@
+#content {
+  #results {
+    #result-wrapper {
+      background: url('/theme/bieblo-forrest/1080/results_bg.png') no-repeat center center;
+      width: 870px;
+      height: 641px;
+      padding: 100px 50px;
+
+      h1 {
+        background: none;
+        position: absolute;
+        top: -10px;
+        left: 0;
+        right: 0;
+        font-size: 50px;
+        padding: 0;
+      }
+
+      .result {
+        background-color: #fbbd65;
+        border: 6px solid #fbbd65
+      }
+
+      .book-title,
+      .book-summary,
+      .book-location-text {
+        font-size: 20px;
+        font-weight: bold;
+        color: #FFF;
+        text-shadow: 0 0 3px #333;
+      }
+
+      .book-title {
+        font-size: 40px;
+      }
+
+
+      .book-summary {
+        margin-bottom: 30px;
+      }
+    }
+
+    img.book {
+      border: 6px solid #fbbd65;
+    }
+
+    .owl {
+      bottom: -50px;
+      right: 50px;
+    }
+  }
+
+
+  .book-location-text {
+    font-size: 30px;
+  }
+}

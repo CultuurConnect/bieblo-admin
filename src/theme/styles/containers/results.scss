@@ -1,0 +1,32 @@
+.results-list {
+
+  .results-row {
+    margin-bottom: 30px;
+
+    .result-wrapper {
+
+        .result {
+          height: 200px;
+          width: 150px;
+          margin: 0 auto;
+          background-repeat: no-repeat;
+          background-position: center center;
+          background-size: auto 100%;
+        }
+    }
+  }
+}
+
+img.book {
+  max-width: 90%;
+  height: auto;
+  display: block;
+  margin: 0 auto;
+}
+
+.book-location {
+  padding: 15px;
+  background: #FFF;
+  border: 1px dashed #333;
+  width: 70%;
+}
