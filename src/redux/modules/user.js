@@ -6,7 +6,6 @@ const initialState = {
   username: null,
   ageGroup: null,
   agesList: [
-    {id: 1, age: 7, label: 7, ageGroup: 1},
     {id: 2, age: 8, label: 8, ageGroup: 1},
     {id: 3, age: 9, label: 9, ageGroup: 2},
     {id: 4, age: 10, label: 10, ageGroup: 2},
