@@ -30,15 +30,14 @@ const initialState = {
   ],
   themes: shuffle(
     [
-      {id: 1, cls: 'new', img: '/swipe/Humor.jpg', label: 'Humor'},
+      {id: 1, cls: 'new', img: '/swipe/Humor.jpg', label: 'Grappige verhalen'},
       {id: 2, cls: 'new', img: '/swipe/Magie.jpg', label: 'Magie'},
-      {id: 3, cls: 'new', img: '/swipe/Detective.jpg', label: 'Detective'},
+      {id: 3, cls: 'new', img: '/swipe/Detective.jpg', label: 'Spannende verhalen'},
       {id: 4, cls: 'new', img: '/swipe/Sport.jpg', label: 'Sport'},
       {id: 5, cls: 'new', img: '/swipe/Dieren.jpg', label: 'Dieren'},
-      {id: 6, cls: 'new', img: '/swipe/AndereCulturen.jpg', label: 'Andere Culturen'},
+      {id: 6, cls: 'new', img: '/swipe/AndereLanden.jpg', label: 'Andere landen'},
       {id: 7, cls: 'new', img: '/swipe/Liefde.jpg', label: 'Liefde'},
-      {id: 8, cls: 'new', img: '/swipe/OorlogHistorisch.jpg', label: 'Oorlog Historisch'},
-      {id: 9, cls: 'new', img: '/swipe/Prijsboeken.jpg', label: 'Prijsboeken'},
+      {id: 8, cls: 'new', img: '/swipe/Geschiedenis.jpg', label: 'Geschiedenis'},
       {id: 10, cls: 'new', img: '/swipe/Vriendschap.jpg', label: 'Vriendschap'},
     ]
   ).map(
